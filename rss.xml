@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Sophros]]></title>
         <description><![CDATA[Sophros]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sophros/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 01:07:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 01:10:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sophros/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Menu: Week Feb 08 - Feb 12, 2016]]></title>
             <description><![CDATA[<article><h1>Menu: Week Feb 08 - Feb 12, 2016</h1><p>******************** BASIC MENU ***********************JUN 6 – JUN 10, 2016 NAF 10,00 (OB 9% incl.)*************************************************************-------------------------------- RATES ------------------------------------Basic Meals NAF 10,00 (Pick up) – NAF 12,00 (Delivery)Sports Meals NAF 12,00 (Pick up) – NAF 14,00 (Delivery)Veggie Meals NAF 12,00 (Pick up) – NAF 14,00 (Delivery)Luxious Meals NAF 17,50 (Pick up) – NAF 19.50 (Delivery)-------------------------------------------------------------------------------MON JUN 6 American Beer “Monk in the trunk”Citrus Rosemary Chicken Breast, served with Whole Wheat Pasta, covered with a creamy Monk in the Trunk Sauce</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a00dbe2a480013510927ac3ada675de8/croprotate.jpg?cropheight=1650&cropwidth=1274&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F43c1b034-e47d-44ca-ace5-74d6db6f1a5f.jpg&x=0&y=0"></article>]]></description>
-            <link>undefinedmenu-week-feb-08-feb-12-2016/index.html</link>
+            <link>https://thegrid.ai/sophros/menu-week-feb-08-feb-12-2016/index.html</link>
             <guid isPermaLink="false">3c16a219-587b-425c-9544-31bbaf835f8a</guid>
             <pubDate>Sat, 18 Jun 2016 01:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BASIC MENU *********************** JUN 6 - JUN 10, 2016 NAF 10,00 (OB 9% incl.)...</p>]]></description>
+            <link>https://www.facebook.com/sophrosnutrition/posts/1061635480584533:0</link>
+            <guid isPermaLink="false">94ebef92-cabc-481e-a981-6ae303701c24</guid>
+            <pubDate>Sat, 18 Jun 2016 01:10:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
